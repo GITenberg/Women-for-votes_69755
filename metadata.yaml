@@ -1,11 +1,16 @@
 _repo: Women-for-votes_69755
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69755-h/images/cover.jpg
 creator:
   author:
     agent_name: Hughes, Elizabeth
     gutenberg_agent_id: '55402'
     url: http://www.gutenberg.org/2009/agents/55402
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69755#Women-for-votes
 gutenberg_issued: '2023-01-09'
 identifiers:
   gutenberg: '69755'
